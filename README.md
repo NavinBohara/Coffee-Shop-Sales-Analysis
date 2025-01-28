@@ -9,5 +9,5 @@ This project involves analyzing coffee shop sales data using Excel. The analysis
 The goal of this project is to provide insights into sales performance, customer behavior, and overall business trends.
 
 ## Dataset used
-- <a href="https://github.com/NavinBohara/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/NavinBohara/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20DataSet.xlsx">Dataset</a>
 
