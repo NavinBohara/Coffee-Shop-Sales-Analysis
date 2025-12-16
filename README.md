@@ -8,6 +8,11 @@ This project involves analyzing coffee shop sales data using Excel. The analysis
 
 The goal of this project is to provide insights into sales performance, customer behavior, and overall business trends.
 
+## 📈 Dashboard Preview
+![Dashboard](Dashboard/Dashboard.png)
+
+
+
 ## Overview
 This report provides key insights from the coffee shop sales dashboard, highlighting trends, customer behavior, and sales performance based on various metrics.
 
